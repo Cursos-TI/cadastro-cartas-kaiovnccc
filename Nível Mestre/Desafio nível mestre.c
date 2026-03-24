@@ -88,7 +88,8 @@ int main() {
     printf("Numero de Pontos Turisticos: %d\n", pontos1);
     printf("PIB: %.2f bilhões de reais\n", pib1);
     printf("Densidade Populacional: %.2f hab/km2\n", densidade1);
-    printf("PIB per Capita: %.2f reais\n", pibPerCapita1);
+    printf("PIB per Capita: R$ %.2f\n", pibPerCapita1);
+    printf("Super Poder: %.2f\n", superPoder1);
 
     printf("\n===== CARTA 2 =====\n\n");
     printf("Estado: %c\n", estado2);
@@ -99,7 +100,8 @@ int main() {
     printf("Numero de Pontos Turisticos: %d\n", pontos2);
     printf("PIB: %.2f bilhões de reais\n", pib2);
     printf("Densidade Populacional: %.2f hab/km2\n", densidade2);
-    printf("PIB per Capita: %.2f reais\n", pibPerCapita2);
+    printf("PIB per Capita: R$ %.2f\n", pibPerCapita2);
+    printf("Super Poder: %.2f\n", superPoder2);
 
     printf("\n=== Comparação de Cartas ===\n");
 
